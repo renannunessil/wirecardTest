@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">wirecardTest</string>
+  <string name="user">username</string>
+  <string name="password">password</string>
+  <string name="login">login</string>
+
+  <string name="login_failure">usuário ou senha incorreto(s)</string>
+  <string name="empty_inputs">favor preencher todos os campos</string>
+  <string name="total_orders_text">pedidos totalizando </string>
+
+  <string name="credit_card">Credit Card</string>
+  <string name="boleto">Boleto</string>
+
+  <string name="customer">Comprador</string>
+  <string name="created">Criado Em</string>
+  <string name="status">Status</string>
+  <string name="finance">Resumo Financeiro</string>
+  <string name="total_value">Valor Total</string>
+  <string name="fees">Taxas</string>
+  <string name="liquid_value">Meu Recebimento</string>
+  <string name="payments">Pagamentos</string>
+
+  //icons
+  <string name="credit_card_icon">&#xf09d;</string>
+  <string name="bar_code_icon">&#xf02a;</string>
+</resources>

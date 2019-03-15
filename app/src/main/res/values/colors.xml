@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#182CAC</color>
+    <color name="colorPrimaryDark">#000E63</color>
+    <color name="colorAccent">#FFFFFF</color>
+    
+    <color name="progressBarBackgroud">#7f000000</color>
+    <color name="amount_color">#00B5D3</color>
+    <color name="icons_color">#8F8F8F</color>
+    <color name="order_details_background">#3F3F3F</color>
+    <color name="total_orders_background">#BBBBBB</color>
+    
+    <color name="not_payed">#FF0000</color>
+    <color name="waiting">#FFC000</color>
+    <color name="payed">#209626</color>
+</resources>
